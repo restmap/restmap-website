@@ -1,13 +1,15 @@
 {
   "name": "restmap-website",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "build": "vue-cli-service build",
     "commit": "git add . & cz -S",
     "lint": "vue-cli-service lint",
     "serve": "vue-cli-service serve"
   },
+  "repository": "https://github.com/restmap/restmap-website",
+  "author": "DawnImpulse",
+  "license": "ISC",
   "dependencies": {
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
