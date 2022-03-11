@@ -4,6 +4,7 @@
   "scripts": {
     "build": "vue-cli-service build",
     "commit": "git add . & cz -S",
+    "deploy": "vercel --prod",
     "lint": "vue-cli-service lint",
     "serve": "vue-cli-service serve"
   },

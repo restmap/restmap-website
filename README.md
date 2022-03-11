@@ -1,8 +1,10 @@
 # restmap-website
 
 - Includes the playground for testing generate & reduce functions.
-- Visit the [Playground](https://...)
-- Currently the homepage `https://...` redirects to Restmap github page
+- Visit the [Playground](https://restmap.vercel.app/playground)
+- Currently the homepage `https://restmap.vercel.app/playground` redirects to Restmap github page
+
+> Very normal playground for now, will improve later on
 
 ### Tech Used
 - VueJs along with Vuetify

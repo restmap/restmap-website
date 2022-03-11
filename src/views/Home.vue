@@ -8,7 +8,7 @@ import { Component, Vue } from "vue-property-decorator";
 @Component({})
 export default class Home extends Vue {
   created() {
-    window.location.href = "https://github.com/restmap";
+    window.location.href = "https://github.com/restmap/restmap-node";
   }
 }
 </script>
